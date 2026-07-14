@@ -186,7 +186,6 @@ function getRandomRecipe() {
             ${
               recipe.isExtendedPreparationTime
                 ? `<div
-              id="time-warning"
               class="bg-red-50 border-start border-4 border-red-500 p-3 rounded-3 mb-4">
               <div class="d-flex align-items-center">
                 <i
