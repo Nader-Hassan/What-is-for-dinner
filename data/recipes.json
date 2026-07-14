@@ -1,0 +1,574 @@
+[
+  {
+    "title": "Classic Beef Burger",
+    "description": "Juicy homemade burger with all the fixings",
+    "level": "easy",
+    "nationaltiy": "American",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.6,
+    "reviewsCount": 421,
+    "prepTime": "15 min",
+    "isExtendedPreparationTime": false,
+    "cookTime": "20 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "500g ground beef (80/20)",
+      "4 burger buns",
+      "4 slices cheddar cheese",
+      "Lettuce leaves",
+      "Tomato slices",
+      "Red onion, sliced",
+      "Pickles",
+      "Burger sauce or condiments"
+    ],
+    "instructions": [
+      "Divide ground beef into 4 equal portions. Form into patties, making a small indent in the center.",
+      "Season patties generously with salt and pepper on both sides.",
+      "Heat a grill or skillet over high heat. Cook patties for 4-5 minutes per side for medium.",
+      "Add cheese slices in the last minute of cooking and cover to melt.",
+      "Toast burger buns lightly on the grill or in a pan."
+    ],
+    "nutrition": {
+      "calories": "650 kcal",
+      "carbohydrates": "42g",
+      "fiber": "2g",
+      "protein": "38g",
+      "fat": "35g",
+      "sodium": "920mg"
+    },
+    "chefsTips": [
+      "Don't press down on burgers while cooking - keeps them juicy",
+      "Make indent in center to prevent burger from puffing up",
+      "Let patties rest for 2-3 minutes before serving",
+      "Toast buns for better texture and flavor"
+    ]
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "description": "Creamy and aromatic Indian curry with tender marinated chicken",
+    "level": "medium",
+    "nationaltiy": "Indian",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.8,
+    "reviewsCount": 892,
+    "prepTime": "30 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "40 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "800g boneless chicken thighs, cubed",
+      "1 cup plain yogurt",
+      "2 tbsp tikka masala spice blend",
+      "1 can (400g) crushed tomatoes",
+      "1 cup heavy cream",
+      "1 large onion, finely diced",
+      "4 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and half the spice blend for at least 2 hours or overnight.",
+      "Grill or pan-sear marinated chicken until charred and cooked through. Set aside.",
+      "In a large pot, sauté onion until golden. Add garlic, ginger, and remaining spices.",
+      "Pour in crushed tomatoes and simmer for 15 minutes until thickened.",
+      "Stir in heavy cream and grilled chicken. Simmer for 10 more minutes.",
+      "Garnish with fresh cilantro and serve with naan or rice."
+    ],
+    "nutrition": {
+      "calories": "520 kcal",
+      "carbohydrates": "18g",
+      "fiber": "3g",
+      "protein": "42g",
+      "fat": "28g",
+      "sodium": "680mg"
+    },
+    "chefsTips": [
+      "Marinate overnight for the most tender and flavorful chicken",
+      "Use full-fat yogurt for the best marinade texture",
+      "Char the chicken slightly for authentic smoky flavor",
+      "Adjust cream amount to control richness"
+    ]
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "description": "Authentic Roman pasta with eggs, pecorino, guanciale, and black pepper",
+    "level": "medium",
+    "nationaltiy": "Italian",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.7,
+    "reviewsCount": 634,
+    "prepTime": "10 min",
+    "isExtendedPreparationTime": false,
+    "cookTime": "15 min",
+    "servings_people": "2 people",
+    "ingredients": [
+      "300g spaghetti",
+      "150g guanciale or pancetta, diced",
+      "3 large eggs + 1 egg yolk",
+      "100g Pecorino Romano, finely grated",
+      "50g Parmigiano-Reggiano, finely grated",
+      "Freshly cracked black pepper",
+      "Salt for pasta water"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil and cook spaghetti until al dente.",
+      "While pasta cooks, render guanciale in a skillet until crispy. Remove from heat.",
+      "Whisk eggs, yolk, and grated cheeses together in a bowl with plenty of black pepper.",
+      "Reserve 1 cup of pasta water before draining spaghetti.",
+      "Toss hot pasta with guanciale and its fat off the heat.",
+      "Slowly add egg mixture, tossing constantly and adding pasta water as needed to create a creamy sauce."
+    ],
+    "nutrition": {
+      "calories": "780 kcal",
+      "carbohydrates": "68g",
+      "fiber": "3g",
+      "protein": "36g",
+      "fat": "38g",
+      "sodium": "1120mg"
+    },
+    "chefsTips": [
+      "Never add cream - authentic carbonara uses only eggs and cheese",
+      "Work off the heat when adding eggs to prevent scrambling",
+      "Use pasta water to adjust sauce consistency",
+      "Guanciale gives the most authentic flavor, but pancetta works well too"
+    ]
+  },
+  {
+    "title": "Thai Green Curry",
+    "description": "Fragrant and spicy coconut curry with vegetables and Thai basil",
+    "level": "medium",
+    "nationaltiy": "Thai",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.5,
+    "reviewsCount": 378,
+    "prepTime": "20 min",
+    "isExtendedPreparationTime": false,
+    "cookTime": "25 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "400g chicken breast, sliced",
+      "400ml coconut milk",
+      "3 tbsp green curry paste",
+      "1 cup Thai eggplant, quartered",
+      "1 red bell pepper, sliced",
+      "1 cup bamboo shoots",
+      "2 kaffir lime leaves",
+      "1 tbsp fish sauce",
+      "1 tsp palm sugar",
+      "Fresh Thai basil leaves"
+    ],
+    "instructions": [
+      "Heat 2 tbsp thick coconut cream in a wok over medium heat until oil separates.",
+      "Add green curry paste and fry for 2 minutes until fragrant.",
+      "Add chicken slices and stir-fry until mostly cooked.",
+      "Pour in remaining coconut milk and bring to a gentle simmer.",
+      "Add eggplant, bell pepper, bamboo shoots, and kaffir lime leaves.",
+      "Season with fish sauce and palm sugar. Simmer for 10-15 minutes until vegetables are tender.",
+      "Stir in Thai basil just before serving with jasmine rice."
+    ],
+    "nutrition": {
+      "calories": "480 kcal",
+      "carbohydrates": "14g",
+      "fiber": "3g",
+      "protein": "32g",
+      "fat": "34g",
+      "sodium": "720mg"
+    },
+    "chefsTips": [
+      "Fry the curry paste in coconut cream oil for deeper flavor",
+      "Use Thai eggplants for authentic texture - they absorb the curry beautifully",
+      "Don't boil the curry vigorously - gentle simmer preserves coconut milk texture",
+      "Add basil at the very end to keep its fresh aroma"
+    ]
+  },
+  {
+    "title": "Japanese Ramen",
+    "description": "Rich tonkotsu-style ramen with chashu pork, soft egg, and nori",
+    "level": "hard",
+    "nationaltiy": "Japanese",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.9,
+    "reviewsCount": 1205,
+    "prepTime": "45 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "240 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "1kg pork bones",
+      "500g pork belly for chashu",
+      "4 fresh ramen noodles",
+      "4 soft-boiled eggs (6.5 minutes)",
+      "4 sheets nori",
+      "2 green onions, sliced",
+      "2 tbsp soy sauce",
+      "1 tbsp mirin",
+      "1 tbsp sake",
+      "2 tbsp tonkotsu tare"
+    ],
+    "instructions": [
+      "Blanch pork bones in boiling water for 10 minutes, then rinse thoroughly.",
+      "Simmer bones in fresh water for 4 hours, skimming regularly, until broth is milky white.",
+      "Roll and tie pork belly, then braise in soy sauce, mirin, sake, and water for 2 hours until tender.",
+      "Cook ramen noodles according to package instructions - usually 2-3 minutes.",
+      "Assemble bowls: ladle hot broth, add noodles, top with sliced chashu, halved egg, nori, and green onions."
+    ],
+    "nutrition": {
+      "calories": "620 kcal",
+      "carbohydrates": "48g",
+      "fiber": "2g",
+      "protein": "38g",
+      "fat": "30g",
+      "sodium": "1850mg"
+    },
+    "chefsTips": [
+      "The key to milky broth is a vigorous rolling boil, not a gentle simmer",
+      "Make chashu a day ahead and let it cool completely for cleaner slicing",
+      "Ramen noodles should be cooked slightly firmer than al dente",
+      "Customize toppings with corn, bean sprouts, or bamboo shoots"
+    ]
+  },
+  {
+    "title": "Greek Moussaka",
+    "description": "Layered eggplant and potato casserole with spiced meat and béchamel",
+    "level": "hard",
+    "nationaltiy": "Greek",
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.4,
+    "reviewsCount": 267,
+    "prepTime": "45 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "75 min",
+    "servings_people": "6 people",
+    "ingredients": [
+      "3 large eggplants, sliced",
+      "500g ground lamb",
+      "2 large potatoes, sliced",
+      "1 can (400g) crushed tomatoes",
+      "1 large onion, diced",
+      "3 cloves garlic, minced",
+      "1 tsp cinnamon",
+      "1 tsp oregano",
+      "4 tbsp butter",
+      "4 tbsp flour",
+      "2 cups milk",
+      "2 eggs",
+      "100g kefalotyri or parmesan cheese"
+    ],
+    "instructions": [
+      "Salt eggplant slices and let drain for 30 minutes to remove bitterness. Pat dry and pan-fry until golden.",
+      "Sauté onion and garlic, then add lamb and cook until browned. Stir in tomatoes, cinnamon, and oregano.",
+      "Simmer meat sauce for 20 minutes until thickened. Season with salt and pepper.",
+      "Make béchamel: melt butter, whisk in flour, gradually add milk until smooth and thick. Temper in eggs and cheese.",
+      "Layer in a baking dish: potatoes, half eggplant, meat sauce, remaining eggplant, béchamel on top.",
+      "Bake at 180°C (350°F) for 45 minutes until golden and bubbling. Rest 15 minutes before serving."
+    ],
+    "nutrition": {
+      "calories": "540 kcal",
+      "carbohydrates": "32g",
+      "fiber": "6g",
+      "protein": "28g",
+      "fat": "34g",
+      "sodium": "760mg"
+    },
+    "chefsTips": [
+      "Salting eggplant is essential - it removes bitterness and prevents soggy layers",
+      "Let the moussaka rest before cutting for clean slices",
+      "Lamb is traditional, but beef works well as a substitute",
+      "The béchamel should be thick enough to hold its shape when baked"
+    ]
+  },
+  {
+    "title": "Mexican Street Tacos",
+    "description": "Authentic corn tortilla tacos with marinated steak and fresh toppings",
+    "level": "easy",
+    "nationaltiy": "Mexican",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.7,
+    "reviewsCount": 756,
+    "prepTime": "20 min",
+    "isExtendedPreparationTime": false,
+    "cookTime": "10 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "600g skirt steak or flank steak",
+      "12 small corn tortillas",
+      "1 white onion, finely diced",
+      "1 bunch cilantro, chopped",
+      "2 limes",
+      "2 cloves garlic, minced",
+      "1 tsp cumin",
+      "1 tsp chili powder",
+      "Salsa verde or roja",
+      "Sliced radishes for garnish"
+    ],
+    "instructions": [
+      "Marinate steak with lime juice, garlic, cumin, chili powder, salt, and pepper for at least 1 hour.",
+      "Heat a cast-iron skillet or grill to very high heat.",
+      "Cook steak for 3-4 minutes per side for medium-rare. Rest for 5 minutes, then slice thinly against the grain.",
+      "Warm corn tortillas on the skillet or directly over a flame for charred edges.",
+      "Assemble tacos: tortilla, steak, diced onion, cilantro, a squeeze of lime, and salsa."
+    ],
+    "nutrition": {
+      "calories": "380 kcal",
+      "carbohydrates": "28g",
+      "fiber": "4g",
+      "protein": "32g",
+      "fat": "16g",
+      "sodium": "520mg"
+    },
+    "chefsTips": [
+      "Always slice steak against the grain for maximum tenderness",
+      "Warm tortillas properly - cold tortillas crack and fall apart",
+      "Don't skip the lime - it brightens all the flavors",
+      "Use two tortillas per taco to prevent breaking"
+    ]
+  },
+  {
+    "title": "French Onion Soup",
+    "description": "Caramelized onion soup topped with crusty bread and melted Gruyère",
+    "level": "medium",
+    "nationaltiy": "French",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.6,
+    "reviewsCount": 543,
+    "prepTime": "15 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "90 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "1.5kg yellow onions, thinly sliced",
+      "4 tbsp butter",
+      "1 tbsp olive oil",
+      "1 tsp sugar",
+      "2 tbsp flour",
+      "1.5L beef stock",
+      "200ml dry white wine",
+      "2 bay leaves",
+      "4 slices baguette",
+      "200g Gruyère cheese, grated",
+      "Fresh thyme"
+    ],
+    "instructions": [
+      "Melt butter with oil in a large heavy pot over medium-low heat. Add onions and sugar.",
+      "Cook onions slowly for 45-60 minutes, stirring occasionally, until deeply golden and caramelized.",
+      "Stir in flour and cook for 2 minutes. Deglaze with white wine, scraping the bottom.",
+      "Add beef stock, bay leaves, and thyme. Simmer for 20-30 minutes. Season with salt and pepper.",
+      "Ladle soup into oven-safe bowls, top with baguette slice and generous Gruyère.",
+      "Broil until cheese is bubbly and golden brown. Serve immediately."
+    ],
+    "nutrition": {
+      "calories": "420 kcal",
+      "carbohydrates": "38g",
+      "fiber": "5g",
+      "protein": "18g",
+      "fat": "22g",
+      "sodium": "890mg"
+    },
+    "chefsTips": [
+      "Patience is key - onions need at least 45 minutes to caramelize properly",
+      "Use a mix of butter and oil to prevent burning",
+      "A splash of wine adds depth, but sherry or brandy work too",
+      "Use good quality beef stock - it makes a huge difference in flavor"
+    ]
+  },
+  {
+    "title": "Korean Bibimbap",
+    "description": "Colorful rice bowl with seasoned vegetables, beef, gochujang, and a fried egg",
+    "level": "medium",
+    "nationaltiy": "Korean",
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.8,
+    "reviewsCount": 689,
+    "prepTime": "30 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "25 min",
+    "servings_people": "2 people",
+    "ingredients": [
+      "2 cups cooked short-grain rice",
+      "200g beef sirloin, thinly sliced",
+      "1 cup spinach",
+      "1 cup bean sprouts",
+      "1 carrot, julienned",
+      "1 zucchini, julienned",
+      "4 shiitake mushrooms, sliced",
+      "2 eggs",
+      "2 tbsp gochujang",
+      "1 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tsp sesame seeds"
+    ],
+    "instructions": [
+      "Marinate beef in soy sauce, sesame oil, garlic, and a pinch of sugar for 15 minutes.",
+      "Blanch spinach and bean sprouts separately, then season each with sesame oil and salt.",
+      "Sauté carrots, zucchini, and mushrooms separately with a little oil and salt.",
+      "Stir-fry marinated beef quickly over high heat until just cooked.",
+      "Fry eggs sunny-side up with runny yolks.",
+      "Assemble bowls: rice at the bottom, arrange vegetables and beef in sections around the edge, place egg in center. Serve with gochujang on the side."
+    ],
+    "nutrition": {
+      "calories": "580 kcal",
+      "carbohydrates": "62g",
+      "fiber": "6g",
+      "protein": "28g",
+      "fat": "24g",
+      "sodium": "980mg"
+    },
+    "chefsTips": [
+      "Cook and season each vegetable separately to maintain distinct flavors",
+      "Use a hot stone bowl (dolsot) for crispy rice at the bottom",
+      "The runny yolk acts as a rich sauce when mixed with gochujang",
+      "Prepare all components ahead and assemble just before serving"
+    ]
+  },
+  {
+    "title": "Moroccan Tagine",
+    "description": "Slow-cooked lamb with dried fruits, warm spices, and preserved lemon",
+    "level": "medium",
+    "nationaltiy": "Moroccan",
+    "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.5,
+    "reviewsCount": 312,
+    "prepTime": "25 min",
+    "isExtendedPreparationTime": false,
+    "cookTime": "150 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "800g lamb shoulder, cubed",
+      "1 large onion, sliced",
+      "3 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "1 tsp ground cinnamon",
+      "1 tsp ground ginger",
+      "1 cup dried apricots",
+      "1 cup pitted prunes",
+      "1 preserved lemon, pulp removed, rind sliced",
+      "2 cups chicken stock",
+      "2 tbsp honey",
+      "Toasted almonds and cilantro for garnish"
+    ],
+    "instructions": [
+      "Brown lamb cubes in a tagine or heavy pot with a little oil. Remove and set aside.",
+      "Sauté onion and garlic until soft. Add all spices and toast for 1 minute until fragrant.",
+      "Return lamb to the pot. Add stock, honey, apricots, and prunes. Bring to a simmer.",
+      "Cover and cook on low heat for 2 to 2.5 hours until lamb is fork-tender.",
+      "Add preserved lemon rind in the last 15 minutes of cooking.",
+      "Garnish with toasted almonds and fresh cilantro. Serve with couscous."
+    ],
+    "nutrition": {
+      "calories": "560 kcal",
+      "carbohydrates": "42g",
+      "fiber": "6g",
+      "protein": "36g",
+      "fat": "28g",
+      "sodium": "620mg"
+    },
+    "chefsTips": [
+      "Lamb shoulder is ideal for slow cooking - it becomes incredibly tender",
+      "The combination of sweet dried fruits and savory meat is the hallmark of Moroccan cuisine",
+      "Preserved lemon adds a unique bright, salty citrus note",
+      "Toast almonds in a dry pan for extra crunch and flavor"
+    ]
+  },
+  {
+    "title": "Vietnamese Pho",
+    "description": "Aromatic beef noodle soup with star anise, cinnamon, and fresh herbs",
+    "level": "hard",
+    "nationaltiy": "Vietnamese",
+    "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.9,
+    "reviewsCount": 1043,
+    "prepTime": "30 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "180 min",
+    "servings_people": "4 people",
+    "ingredients": [
+      "1kg beef bones (marrow and knuckle)",
+      "300g beef brisket",
+      "200g rice noodles (banh pho)",
+      "3 star anise",
+      "2 cinnamon sticks",
+      "4 cloves",
+      "1 black cardamom pod",
+      "1 thumb ginger, charred",
+      "1 large onion, charred",
+      "3 tbsp fish sauce",
+      "1 tbsp rock sugar",
+      "Fresh Thai basil, bean sprouts, lime, jalapeño, cilantro"
+    ],
+    "instructions": [
+      "Blanch bones in boiling water for 10 minutes, then rinse clean.",
+      "Char ginger and onion directly over an open flame or under a broiler until blackened.",
+      "Toast spices (star anise, cinnamon, cloves, cardamom) in a dry pan for 1 minute.",
+      "Simmer bones with 3L water, charred aromatics, and toasted spices for 3 hours. Skim frequently.",
+      "Add brisket in the last 1.5 hours. Remove when tender, chill, and slice thinly.",
+      "Season broth with fish sauce and rock sugar. Strain through cheesecloth.",
+      "Cook noodles, place in bowls, top with brisket slices, ladle hot broth, and serve with fresh garnishes."
+    ],
+    "nutrition": {
+      "calories": "420 kcal",
+      "carbohydrates": "48g",
+      "fiber": "2g",
+      "protein": "26g",
+      "fat": "14g",
+      "sodium": "1120mg"
+    },
+    "chefsTips": [
+      "Charring the onion and ginger is essential for the signature smoky depth",
+      "Skimming the broth diligently yields a crystal-clear soup",
+      "Freeze the brisket briefly for easier thin slicing",
+      "Customize the bowl with hoisin and sriracha at the table"
+    ]
+  },
+  {
+    "title": "Spanish Paella",
+    "description": "Saffron-scented rice with seafood, chicken, and vegetables cooked in a wide pan",
+    "level": "hard",
+    "nationaltiy": "Spanish",
+    "image": "https://images.unsplash.com/photo-1534080564583-6be75777b70a?q=80&w=800&auto=format&fit=crop",
+    "rate": 4.7,
+    "reviewsCount": 876,
+    "prepTime": "30 min",
+    "isExtendedPreparationTime": true,
+    "cookTime": "45 min",
+    "servings_people": "6 people",
+    "ingredients": [
+      "400g bomba or short-grain rice",
+      "300g chicken thighs, diced",
+      "200g prawns, shell on",
+      "200g mussels, cleaned",
+      "150g squid, sliced into rings",
+      "1 red bell pepper, sliced",
+      "1 cup green beans",
+      "1 large tomato, grated",
+      "4 cloves garlic, minced",
+      "1 tsp smoked paprika",
+      "1 pinch saffron threads",
+      "1L fish stock",
+      "Lemon wedges and aioli"
+    ],
+    "instructions": [
+      "Heat olive oil in a wide paella pan. Brown chicken pieces and remove.",
+      "Sauté bell pepper and green beans until tender. Add garlic and grated tomato, cook until thickened.",
+      "Stir in rice, smoked paprika, and saffron. Toast for 2 minutes.",
+      "Pour in hot fish stock, arrange chicken on top. Do not stir from this point.",
+      "Simmer for 15 minutes, then add prawns, squid, and mussels around the pan.",
+      "Cook for another 8-10 minutes until seafood is done and rice has formed a crust (socarrat) on the bottom.",
+      "Rest for 5 minutes, garnish with lemon wedges, and serve with aioli."
+    ],
+    "nutrition": {
+      "calories": "520 kcal",
+      "carbohydrates": "58g",
+      "fiber": "3g",
+      "protein": "34g",
+      "fat": "16g",
+      "sodium": "780mg"
+    },
+    "chefsTips": [
+      "Never stir the rice after adding stock - this develops the coveted socarrat crust",
+      "Use a proper wide paella pan for even heat distribution",
+      "Bomba rice absorbs 3x its volume in liquid without getting mushy",
+      "Saffron should be toasted briefly and steeped in warm stock for maximum color and flavor"
+    ]
+  }
+]

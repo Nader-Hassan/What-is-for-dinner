@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>What's For Dinner</title>
+    <link rel="icon" href="./assets/images/favicon.png">
+    <link rel="stylesheet" href="./assets/css/all.min.css" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./assets/css/utilites.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/media.css" />
+  </head>
+  <body>
+    <header class="bg-white shadow-sm border-bottom border-1 border-orange-100">
+      <nav class="navbar navbar-expand-md bg-white max-w-7xl mx-auto py-2 px-4">
+        <div class="container-fluid">
+          <div
+            class="navbar-brand d-flex justify-content-center align-items-center gap-2">
+            <div
+              class="w-12 h-12 rounded-full d-flex justify-content-center align-items-center shadow-lg bg-gradient-orange-red">
+              <i class="text-white fa-solid fa-utensils"></i>
+            </div>
+            <div>
+              <h1 class="text-lg md:text-2xl fw-bold text-gray-900 mb-0">
+                What's For Dinner
+              </h1>
+              <p class="text-xs md:text-sm text-gray-500 mb-0">
+                Your daily meal inspiration
+              </p>
+            </div>
+          </div>
+          <button
+            class="navbar-toggler text-orange-600-hover"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <i class="fa-solid fa-bars text-2xl"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="me-auto"></div>
+            <div
+              class="d-flex flex-column flex-md-row align-items-start align-items-md-center gap-3 pt-4 mt-2 ps-2 pb-3 p-md-0 md:border-0 border-top border-1 border-orange-100">
+              <button class="btn text-gray-600 p-0 text-orange-600-hover">
+                <i class="fa-solid fa-bookmark text-xl me-1"></i>
+                <span class="d-md-none">Saved Recipes</span>
+              </button>
+              <button class="btn text-gray-600 p-0 text-orange-600-hover">
+                <i class="fa-solid fa-clock-rotate-left text-xl me-1"></i>
+                <span class="d-md-none">Recent</span>
+              </button>
+              <button class="btn text-gray-600 p-0 text-orange-600-hover">
+                <i class="fa-solid fa-gear text-xl me-1"></i>
+                <span class="d-md-none">Settings</span>
+              </button>
+              <div
+                class="d-flex justify-content-center align-items-center gap-2 text-gray-600 text-orange-600-hover cursor-pointer">
+                <img
+                  src="./assets/images/avatar-1.jpg"
+                  alt="profile"
+                  class="w-8 h-8 md:w-10 md:h-10 rounded-full border border-2 border-orange-300 me-1" />
+                <span class="d-md-none">Profile</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main class="max-w-7xl mx-auto px-4 py-8">
+      <section
+        id="recipe-display-section"
+        class="bg-white rounded-3xl shadow-lg mb-8 border border-orange-100">
+        <div id="recipe" class="row g-0 lg:h-750px"></div>
+      </section>
+    </main>
+
+    
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/main.js"></script>
+  </body>
+</html>
