@@ -104,7 +104,7 @@ function getRandomRecipe() {
   var chefTips = renderTabs(recipe.chefsTips, "chefsTips");
 
   container.innerHTML = `
-    <div class="col-lg-5 hero-img overflow-hidden position-relative">
+    <div class="col-lg-5 hero-img overflow-hidden position-relative user-select-none">
             <img
               src="${recipe.image}"
               alt="${recipe.title}"
