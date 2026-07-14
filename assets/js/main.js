@@ -2,7 +2,7 @@ var recipes = [];
 var lastIndex = -1;
 
 async function loadrecipes() {
-  var response = await fetch("../../data/recipes.json");
+  var response = await fetch("./data/recipes.json");
   return await response.json();
 }
 
